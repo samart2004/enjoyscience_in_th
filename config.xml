@@ -5,14 +5,14 @@
         id        = "com.enjoyscience.in"
         versionCode = "20160727"
         version   = "1.0.0">
-    <name>KKU e-Learning</name>
+    <name>Enjoyscience e-learning</name>
 
     <description>
-        Khon Kaen University e-Learning Mobile App
+         Enjoyscience e-learning Mobile App by ilti 
     </description>
 
     <author href="https://enjoyscience.in.th" email="samart@kku.ac.th">
-        KKU e-Learning Support
+        Enjoyscience e-Learning Support
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
