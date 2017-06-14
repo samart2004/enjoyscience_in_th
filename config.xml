@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.kku.elearning"
+        id        = "com.enjoyscience.in"
         versionCode = "20160727"
         version   = "1.0.0">
     <name>KKU e-Learning</name>
@@ -11,7 +11,7 @@
         Khon Kaen University e-Learning Mobile App
     </description>
 
-    <author href="https://e-learning.kku.ac.th" email="ilti.elearning@kku.ac.th">
+    <author href="https://enjoyscience.in.th" email="samart@kku.ac.th">
         KKU e-Learning Support
     </author>
 
